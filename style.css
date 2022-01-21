@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed;
+}
+
+.form-register {
+  width: 400px;
+  background: #1c1e21;
+  padding: 30px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: white;
+  box-shadow: 7px 13px 37px #000;
+}
+
+.form-register h4 {
+  font-size: 29px;
+text-align: center;
+}
+
+.form-register h3 {
+  font-size: 15px;
+  margin-bottom: 20px;
+    color: lightgray;
+text-align: center;
+}
+
+.controls {
+  width: 100%;
+  background: #e0dcdc;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid white;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: #000000;
+}
+
+.form-register p {
+color: #777;
+    font-size: 13px;
+    width: 316px;
+}
+
+.form-register a {
+  color: #8694ff;
+  text-decoration: none;
+}
+.Logofacebook {
+    height: 90px;
+}
+
+
+    
+    
+}
+
+.form-register a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.form-register .botons {
+  width: 100%;
+  background: #4c4550;
+  border: none;
+  padding: 12px;
+border: 2px solid #4c4550;
+    border-radius: 10px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
